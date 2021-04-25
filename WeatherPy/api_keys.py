@@ -1,5 +1,8 @@
+# I took my keys out for uploading my homework because this is publicly shared
+
 # OpenWeatherMap API Key
-weather_api_key = "234f310d0b797742eb0ffd7c247bacaf"
+weather_api_key = "YOUR KEY HERE"
+
 
 # Google API Key
-g_key = "AIzaSyCrRgBcfU9RalNoRNyhK-X8gEtifvh3D34"
+g_key = "YOUR KEY HERE"
